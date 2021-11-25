@@ -1,0 +1,25 @@
+{
+  "name": "objectid-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corluk/objectid-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corluk/objectid-generator/issues"
+  },
+  "homepage": "https://github.com/corluk/objectid-generator#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "fastify": "^3.24.0",
+    "mongodb": "^4.2.0"
+  }
+}
